@@ -33,3 +33,8 @@ Make sure to check out [uses.tech](https://uses.tech) for a list of everyone's /
 - I have a second mic, a a [Blue Yeti](https://amzn.to/2Zy6LOk)
 - My headphones are the (JBL Tune 600BTNC)[https://amzn.to/2ZDD4v9] With active noise cancellation.
 
+# Books
+- [Badass by Kathy Sierra](https://amzn.to/2VItO7Y)
+- [Atomic Habits](https://amzn.to/31Iinkp)
+- [Una Breve Historia de Casi Todo](https://amzn.to/31HCjnC)
+
