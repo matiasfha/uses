@@ -4,15 +4,14 @@ Make sure to check out [uses.tech](https://uses.tech) for a list of everyone's /
 
 # Editor + Terminal
 
-- [NeoVim](https://neovim.io/) is my current editor for everything.
-- I use [Tomorrow Nigh Bright](https://github.com/chriskempson/tomorrow-theme/blob/master/vim/colors/Tomorrow-Night-Bright.vim) theme in [NeoVim](https://neovim.io/).
-- I'm currently using [Fira Code](https://github.com/tonsky/FiraCode) as font for my editor.
-- And [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) for my terminal
-- I use [Alacritty](https://github.com/alacritty/alacritty) as my primary terminal.
+- VSCode + VIM is my current editor for everything.
+- I use [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=twitter-social-sdras) theme
+- I'm currently using [Dank Mono](https://philpl.gumroad.com/l/dank-mono) as font for my editor.
+- I use [Fio](https://fig.io/) as my primary terminal.
 
 # Desktop Apps
 
-- I'm currently using Safari as my personal Browser and Chrome for development work.
+- I'm currently using [Brave](https://brave.com/) as my main browser.
 - I use [Notion](https://www.notion.so/) for task management, note taking, planner,etc.
 - I use [Spotify](https://open.spotify.com) to listem music all the time and code.
 - Also use [Brain.fm](https://brain.fm) when I want to focus on some coding.
