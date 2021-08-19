@@ -7,7 +7,7 @@ Make sure to check out [uses.tech](https://uses.tech) for a list of everyone's /
 - VSCode + VIM is my current editor for everything.
 - I use [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=twitter-social-sdras) theme
 - I'm currently using [Dank Mono](https://philpl.gumroad.com/l/dank-mono) as font for my editor.
-- I use [Fio](https://fig.io/) as my primary terminal.
+- I use [Fig](https://fig.io/) as my primary terminal.
 
 # Desktop Apps
 
